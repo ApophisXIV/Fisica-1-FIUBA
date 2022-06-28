@@ -1,0 +1,146 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	background: #dedede;
+	height: 100vh;
+	margin: 0;
+	padding: 1rem;
+	box-sizing: border-box;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+h1 {
+	color: #ff3e00;
+	text-transform: uppercase;
+	font-size: 4em;
+	font-weight: 100;
+	margin: 2rem 0;
+	text-align: center;
+}
+h2 {
+	text-align: center;
+	color: #444;
+	margin: 1.5rem 0;
+	font-weight: 300;
+	font-size: 2.25em;
+	border-top: 1px solid #444;
+	border-bottom: 1px solid #444;
+	padding-bottom: 0.5rem;
+}
+
+/* Chapters */
+section {
+	margin-bottom: 2rem;
+	padding: 1rem;
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+/* Cards */
+.card-container {
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	grid-gap: 10px;
+	/* -webkit-column-gap: 10px; */
+	/* column-gap: 10px; */
+}
+.card {
+	background: #f2f2f2;
+	padding: 1rem;
+	border-radius: 0.25rem;
+	box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+	width: min-content;
+	min-width: 250px;
+	white-space: nowrap;
+}
+.card-header {
+	color: #555;
+	margin-bottom: 1rem;
+}
+.card-header-wrapper {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	-webkit-column-gap: 1rem;
+	column-gap: 1rem;
+}
+.card-title {
+	color: #2d2d2d;
+	font-size: 1.25rem;
+}
+.card-body {
+	display: flex;
+	align-items: flex-end;
+	justify-content: space-between;
+}
+.card-body a {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	text-decoration: none;
+
+	background: #5a6268;
+	color: #fff;
+	border: none;
+	padding: 0.5rem 1rem;
+	border-radius: 0.25rem;
+	font-size: 1rem;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+	transition: all 0.2s ease-in-out;
+}
+.card-body a:hover {
+	background: #545b62;
+}
+.card-body a:active,
+.card-body a:focus {
+	box-shadow: 0 0 0 0.2rem rgb(108 117 125 / 50%);
+}
+
+/* Card info pills */
+.card-body-wrapper {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	-webkit-column-gap: 0.5rem;
+	column-gap: 0.5rem;
+}
+.card-pill {
+	width: 45px;
+	height: 12px;
+	border-radius: 1rem;
+	background: #bebebe;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.card-pill:hover {
+	transition: all 0.1s ease-in;
+}
+.card-pill-clickable {
+	cursor: pointer;
+}
+/* Pills colors */
+.theory {
+	background: #c5e86c;
+}
+.practice {
+	background: #6bcaba;
+}
+.complete {
+	background: #36ae7c;
+}
+.incomplete {
+	background: #ff6363;
+}
+
+/* Star icon */
+.fa-solid {
+	color: #dbc33b;
+}
