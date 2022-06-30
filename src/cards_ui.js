@@ -42,7 +42,7 @@ const update_complete_counter = () => {
 		const chapter_title = chapter.querySelector(".chapter-title");
 		const total_tasks = chapter.querySelectorAll(".card-pill-clickable").length;
 		const completed_tasks = chapter.querySelectorAll(".complete").length;
-		const title = chapter_title.innerHTML.split(" ")[0]; //Avoid repetition of the title
+		const title = chapter_title.innerHTML.split("(")[0]; //Avoid repetition of the title
 		chapter_title.innerHTML = `${title} (${completed_tasks}/${total_tasks})`;
 	});
 };
