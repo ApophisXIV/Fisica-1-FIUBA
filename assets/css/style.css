@@ -4,29 +4,32 @@
 	box-sizing: border-box;
 }
 body {
-	background: #dedede;
+	background: #eee;
 	height: 100vh;
 	margin: 0;
 	padding: 1rem;
 	box-sizing: border-box;
 	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }
+/* Title */
 h1 {
 	color: #ff3e00;
 	text-transform: uppercase;
 	font-size: 4em;
 	font-weight: 100;
-	margin: 2rem 0;
+	/* margin: 2rem 0; */
 	text-align: center;
 }
+
+/* Chapter title */
 h2 {
 	text-align: center;
-	color: #444;
+	color: #666;
 	margin: 1.5rem 0;
 	font-weight: 300;
 	font-size: 2.25em;
-	border-top: 1px solid #444;
-	border-bottom: 1px solid #444;
+	border-top: 1px solid #aaa;
+	border-bottom: 1px solid #aaa;
 	padding-bottom: 0.5rem;
 }
 
@@ -34,7 +37,7 @@ h2 {
 section {
 	margin-bottom: 2rem;
 	padding: 1rem;
-	max-width: 900px;
+	max-width: 1000px;
 	margin: 0 auto;
 }
 
@@ -45,8 +48,8 @@ section {
 	flex-wrap: wrap;
 	justify-content: center;
 	grid-gap: 10px;
-	/* -webkit-column-gap: 10px; */
-	/* column-gap: 10px; */
+	-webkit-column-gap: 10px;
+	column-gap: 10px;
 }
 .card {
 	background: #f2f2f2;
@@ -54,8 +57,12 @@ section {
 	border-radius: 0.25rem;
 	box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
 	width: min-content;
-	min-width: 250px;
-	white-space: nowrap;
+	min-width: 300px;
+}
+@media (min-width: 768px) {
+	.card {
+		white-space: nowrap;
+	}
 }
 .card-header {
 	color: #555;
@@ -76,31 +83,6 @@ section {
 	display: flex;
 	align-items: flex-end;
 	justify-content: space-between;
-}
-.card-body a {
-	-webkit-appearance: none;
-	-moz-appearance: none;
-	appearance: none;
-	text-decoration: none;
-
-	background: #5a6268;
-	color: #fff;
-	border: none;
-	padding: 0.5rem 1rem;
-	border-radius: 0.25rem;
-	font-size: 1rem;
-	cursor: pointer;
-	-webkit-user-select: none;
-	-moz-user-select: none;
-	user-select: none;
-	transition: all 0.2s ease-in-out;
-}
-.card-body a:hover {
-	background: #545b62;
-}
-.card-body a:active,
-.card-body a:focus {
-	box-shadow: 0 0 0 0.2rem rgb(108 117 125 / 50%);
 }
 
 /* Card info pills */
@@ -143,4 +125,82 @@ section {
 /* Star icon */
 .fa-solid {
 	color: #dbc33b;
+}
+
+/* Buttons */
+.btn {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	text-decoration: none;
+	border: none;
+	padding: 0.5rem 1rem;
+	border-radius: 0.25rem;
+	font-size: 1rem;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+	transition: all 0.2s ease-in-out;
+}
+.btn * {
+	color: #fff;
+}
+.btn-primary {
+	background: #007bff;
+	color: #fff;
+}
+.btn-primary:hover {
+	background: #0062cc;
+}
+.btn-primary:active,
+.btn-primary:focus {
+	box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 50%);
+}
+
+.btn-secondary {
+	background: #5a6268;
+	color: #fff;
+}
+.btn-secondary:hover {
+	background: #545b62;
+}
+.btn-secondary:active,
+.btn-secondary:focus {
+	box-shadow: 0 0 0 0.2rem rgb(108 117 125 / 50%);
+}
+
+/* Filters buttons */
+.filters-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.filter input[type="checkbox"] {
+	background: #eee;
+	padding: 1.75rem 1rem;
+	outline: none;
+	box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+.filter input[type="checkbox"]:checked {
+	background: #6bcaba;
+	box-shadow: rgba(0, 0, 0, 0.4) 0px -2px 4px, rgba(0, 0, 0, 0.3) 0px -7px 13px -3px, rgba(0, 0, 0, 0.2) 0px 3px 0px inset;
+}
+.filter {
+	padding: 0.5rem;
+	border-radius: 0.25rem;
+	color: #666;
+	font-weight: 400;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 0.5rem;
+	cursor: pointer;
+	transition: all 0.2s ease-in-out;
+}
+
+.filter:last-child input[type="checkbox"]{
+    background: #FE4757;
 }

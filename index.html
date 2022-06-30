@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<link rel="stylesheet" href="style.css" />
+		<link rel="stylesheet" href="assets/css/style.css" />
 		<script src="https://kit.fontawesome.com/1cffaf5fe4.js" crossorigin="anonymous"></script>
 		<link
 			rel="icon"
@@ -13,7 +13,25 @@
 	</head>
 
 	<body>
-		<h1>Física 1</h1>
-		<script src="script.js"></script>
+        <h1>Física 1</h1>
+		<div class="filters-container">
+			<div class="filter">
+				<label for="filter-complete">Completas</label>
+				<input class="btn" type="checkbox" id="filter-complete" />
+			</div>
+			<div class="filter">
+				<label for="filter-incomplete">Pendientes</label>
+				<input class="btn" type="checkbox" id="filter-incomplete" />
+			</div>
+			<div class="filter">
+				<label for="filter-favs">Favoritas</label>
+				<input class="btn" type="checkbox" id="filter-favs" />
+			</div>
+			<div class="filter">
+				<label for="reset-all">Reiniciar</label>
+				<input class="btn" type="checkbox" id="reset-all" />
+			</div>
+		</div>
+		<script type="module" src="src/index.js" defer></script>
 	</body>
 </html>

@@ -1,0 +1,720 @@
+{
+    "chapters": [
+        {
+            "chapter_title": "Cinemática",
+            "chapter_description": "",
+            "cards_total": "",
+            "cards_content": [
+                {
+                    "type": "Teorica",
+                    "description": " Introduccion a la Fisica",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=133867"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Vectores y Sist. Coord Cartesianas",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=135733"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Cinematica Movimientos Parte 1",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=135735"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej5  Moto",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=133857"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Cinematica. Movimientos Parte 2",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=135736"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Cinematica. Coordenadas Intrinsecas",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=135737"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej6  Ave",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134616"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 8  Espiral",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=136581"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 9  Tiro Oblicuo",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=133251"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Cinematica. Movimiento Relativo",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=135744"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 12  Bote Mov Rel",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=133805"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 13  Mov Relativo MCU MRU",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=136929"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 15  Aro Cicloide Mov Rel",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=138715"
+                }
+            ]
+        },
+        {
+            "chapter_title": "Dinámica",
+            "chapter_description": "",
+            "cards_total": "",
+            "cards_content": [
+                {
+                    "type": "Teorica",
+                    "description": " Dinamica. Introduccion",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=135818"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Dinamica. Introduccion",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=144099"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej  16  DCL",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=138584"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Dinamica. Rozamiento Seco",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=139524"
+                },
+                {
+                    "type": "Teorica",
+                    "description": "Dinamica de la particula",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=144100"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 22  Bloques roz",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=133858"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 23  Bloques y barra",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134645"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej 25  Hombre/Plataforma",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=138112"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 26  Bolita MCU",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134888"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 27  Peralte",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134646"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 24  Vinculo poleas",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134377"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Dinamica. Rozamiento Viscoso.",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=135873"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 29  Fuerza Viscosa",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134575"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Dinamica Fuerza Atr Grav",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134973"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Prof. Corsini. Fuerza Atr Grav",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=144101"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Dinamica Fuerzas Elásticas",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=136920"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Dinamica Fuerzas Elásticas M.A.S.",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=137523"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Dinamica Fuerzas Elásticas. Prof. Corsini. M.A.S. ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=144103"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Dinamica. Pendulo 1. Prof. Corsini.",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=144104"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Dinamica. Pendulo 2. Prof. Corsini. ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=144105"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej 31  MAS pistón cond. iniciales",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=136245"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 32  Bloques MAS",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134188"
+                },
+                {
+                    "type": "Teorica",
+                    "description": "Sistemas de Referencia No Inerciales. Prof. Corsini.",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=144106"
+                },
+                {
+                    "type": "Teorica",
+                    "description": "Marcos de referencia",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=150474"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 34  SRNI",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=135608"
+                }
+            ]
+        },
+        {
+            "chapter_title": "Trabajo y energía",
+            "chapter_description": "",
+            "cards_total": "",
+            "cards_content": [
+                {
+                    "type": "Teorica",
+                    "description": " Trabajo y Energia. Def Trabajo",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134791"
+                },
+                {
+                    "type": "Practica",
+                    "description": "Ej 12  Trabajo por definicion",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=136930"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Trabajo y Energia. Def. Energia. Teoremas",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134989"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej 13  Maquina de Atwood",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=141777"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej 15  plano inclinado y resorte",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=135909"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 16 Rulo",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=136582"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Trabajo y Energia. Energia en un MAS",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134804"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Trabajo y Energia. Diagramas Energ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134866"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Trabajo y Energia Energ Pot Grav",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134882"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej  17  Péndulo y clavo ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=138585"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej 18  mov. cuasiestático",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=135910"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Trabajo y Energia. 2 Sist. de Referencia.",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=144137"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Teo. de Conservacion. Definiciones",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=147174"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Teo. de Conservacion. Fuerzas Centrales y Kepler.",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=147178"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Teo. de Conservacion. Cuplas y Traslado de Fuerzas.",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=147179"
+                }
+            ]
+        },
+        {
+            "chapter_title": "Sistema de Particulas",
+            "chapter_description": "",
+            "cards_total": "",
+            "cards_content": [
+                {
+                    "type": "Teorica",
+                    "description": " Sistema de Particulas. Introducción y Definiciones. ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=149726"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Sistema de Particulas. Introducción y Definiciones. Prof Repetto. ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=154316"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Sistema de Particulas. L Interno y L Orbital ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=151972"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 2  Ej calculo de L ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=140580"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 9  Persona Sobre Plancha ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=141756"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Sistema de Particulas. Energia. ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=152064"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Sistema de Particulas. L y Energia. Prof Repetto. ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=154317"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej 10  Labo / CM ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=141669"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Interacciones ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=152065"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Interacciones. Prof. Repetto ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=154318"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej 14  Péndulo balístico ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=139962"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 18  Granada ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=150428"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej 19  Rampa y bloque ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=143295"
+                },
+                {
+                    "type": "Guía",
+                    "description": " Archivo",
+                    "url": "https://campus.fi.uba.ar/mod/resource/view.php?id=228627"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 20  Patinadores ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=150431"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 21  Choque bola con plano inclinado ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=155195"
+                }
+            ]
+        },
+        {
+            "chapter_title": "Cuerpo Rígido",
+            "chapter_description": "",
+            "cards_total": "",
+            "cards_content": [
+                {
+                    "type": "Teorica",
+                    "description": " Cuerpo Rigido. Cinematica Parte A. (Prof. Moreno) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=158423"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Cuerpo Rigido. Cinematica Parte B. (Prof. Moreno) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=158425"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 3  Escalera ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=150435"
+                },
+                {
+                    "type": "Teorica",
+                    "description": "Tensor Momento de Inercia",
+                    "url": "https://campus.fi.uba.ar/mod/resource/view.php?id=155976"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Cuerpo Rigido. Dinamica. Rev 2 (Prof. Moreno) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=156468"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ecuación de Vínculo RSR ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=165428"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Esfera en plano inclinado ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=160588"
+                },
+                {
+                    "type": "Practica",
+                    "description": "Cilindro Desenrollandose ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=165430"
+                },
+                {
+                    "type": "Practica",
+                    "description": "Maquina de Atwood con Polea Rígida ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=165432"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej 19 Dinámica  Yoyo ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=165494"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Cuerpo Rigido. Teorema de Steiner (Prof. Moreno) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=156489"
+                },
+                {
+                    "type": "Práctica",
+                    "description": "Aplicaciones del Teorema de Steiner",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=160513"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Cuerpo Rigido. Energia (Prof. Moreno) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=156490"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Cuerpo Rigido. Equilibrio (Prof. Moreno) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=156491"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Conservación de L ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=160512"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 16 Barra Rígida  Pivote ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=165435"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Tubería y Cilindro ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=160516"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Cuerpo Rigido. Pendulo Fisico (Prof. Moreno) (copia) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=167145"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Pendulo balístico Barra Rígida ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=165433"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Cilindro Patina y luego RSR ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=169466"
+                }
+            ]
+        },
+        {
+            "chapter_title": "Óptica Geométrica",
+            "chapter_description": "",
+            "cards_total": "",
+            "cards_content": [
+                {
+                    "type": "Teorica",
+                    "description": "Apunte Signorini (Optica Geometrica)",
+                    "url": "https://campus.fi.uba.ar/mod/resource/view.php?id=166692"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Optica Geom. Reflexion. (Prof. Moreno) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=156746"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Optica Geom. Refraccion. (Prof. Moreno) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=169999"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Video 1. Prof. Garea. Leyes de la reflexión y la refracción en superficies planas ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=168457"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Optica Geom. Prof. Garea. Reflexión y refracción en una superficie esférica ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=168458"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 5  Espejo convexo ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=170806"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej 4  Espejo cóncavo ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=167201"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 7  Desvio placa de vidrio ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=167691"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ejercicio 13  Profundidad Aparente ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=171868"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Optica Geom. Dioptras. (Prof. Moreno) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=170215"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " dioptra varilla de vidrio ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=164594"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Optica Geom. Lentes. (Prof. Moreno) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=171513"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Optica Geom. Prof. Garea. Dioptras y Lentes. ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=168461"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ejercicio 16  Lentes convergentes ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=171869"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ejercicio 17  Lentes dinvergentes ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=171870"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Experiencias laboratorio ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=174802"
+                },
+                {
+                    "type": "Teorica",
+                    "description": "Objetos virtuales",
+                    "url": "https://campus.fi.uba.ar/mod/resource/view.php?id=174811"
+                }
+            ]
+        },
+        {
+            "chapter_title": "Ondas mecánicas",
+            "chapter_description": "",
+            "cards_total": "",
+            "cards_content": [
+                {
+                    "type": "Teorica",
+                    "description": " Introduccion Elasticidad. (Prof. Moreno) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=173057"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Ondas. Parte 1. (Prof. Aveleyra) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=173059"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Ondas. Parte 2. Energia. (Prof. Aveleyra) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=173110"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Ondas. Parte 3. Efecto Doopler. (Prof. Aveleyra) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=174257"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=160591"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej Nº 6 Condiciones Iniciales ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=173335"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej Nº 10  Potencia e Intensidad ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=174687"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej Nº 11  Intensidad en ondas sonoras  dB ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=174688"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej Nº 16 Efecto Doppler  ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=173337"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Superposicion de MAS / Ondas. (Prof. Moreno) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=174259"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Superposicion. Batidos. (Prof. Acosta). ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=175480"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Superposicion. Delta de Camino. (Prof. Moreno) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=175481"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 2  Batido ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=176140"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Video de resonancia ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=152924"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Superposicion. Ondas Estacionarias. (Prof. Acosta). ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=175482"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Superposicion. Ondas Estacionarias. Exp de Laboratorio. ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=175484"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 8  Ondas Estacionarias ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=176148"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 12  Interferencia ondas puntuales ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=176680"
+                }
+            ]
+        },
+        {
+            "chapter_title": "Óptica Física",
+            "chapter_description": "",
+            "cards_total": "",
+            "cards_content": [
+                {
+                    "type": "Teorica",
+                    "description": " Opt. Fisica. Interfererencia o Superposicion. (Prof. Garea) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=176982"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Opt. Fisica. Experiencia de Young. (Prof. Garea) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=176983"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 13  Experiencia de Young ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=177386"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 16  interferencia N fuentes ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=177387"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Opt. Fisica. Difraccion por una Rendija. (Prof. Garea) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=176984"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Difracción  ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=175905"
+                },
+                {
+                    "type": "Práctica",
+                    "description": "Ej 25 Optica Física Interferencia y Difracción",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=175906"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Opt. Fisica. Redes de Difracción. (Prof. Garea) ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=176985"
+                }
+            ]
+        }
+    ]
+}
