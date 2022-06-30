@@ -18,7 +18,7 @@ const data_format = (data) => {
 	};
 };
 
-fetch("./fisica-1-todo-fiuba/db/data.json") // Github Pages require repo name before file name
+fetch("./db/data.json")
 	.then((data) => data.json())
 	.then((json) => {
 		const chapters_html = json.chapters.map((chapter, id) => chapter_template(data_format(chapter), id));

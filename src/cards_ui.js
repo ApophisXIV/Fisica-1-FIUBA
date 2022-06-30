@@ -1,10 +1,3 @@
-// document.querySelectorAll(".chapter").forEach((chapter) => {
-// 	const chapter_title = chapter.querySelector(".chapter-title");
-// 	const pills = chapter.querySelectorAll(".card-pill-clickable");
-// 	const pills_completed = Array.from(pills).filter((pill) => pill.classList.contains("complete")).length;
-// 	chapter_title.innerHTML += ` (${pills_completed}/${pills.length})`;
-// });
-
 import initialize_cards_filters from "./card_filters.js";
 
 /* -------------------------------------------------------------------------- */
@@ -49,7 +42,7 @@ const update_complete_counter = () => {
 		const chapter_title = chapter.querySelector(".chapter-title");
 		const total_tasks = chapter.querySelectorAll(".card-pill-clickable").length;
 		const completed_tasks = chapter.querySelectorAll(".complete").length;
-        const title = chapter_title.innerHTML.split(" ")[0]; //Avoid repetition of the title
+		const title = chapter_title.innerHTML.split(" ")[0]; //Avoid repetition of the title
 		chapter_title.innerHTML = `${title} (${completed_tasks}/${total_tasks})`;
 	});
 };
