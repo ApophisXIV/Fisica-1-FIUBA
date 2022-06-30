@@ -44,11 +44,22 @@ const toggle_classes = (element, state_1, state_2, force_first_state = false) =>
 	if (force_first_state) element.classList.replace(state_2, state_1);
 };
 
+const update_complete_counter = () => {
+	document.querySelectorAll(".chapter").forEach((chapter) => {
+		const chapter_title = chapter.querySelector(".chapter-title");
+		const total_tasks = chapter.querySelectorAll(".card-pill-clickable").length;
+		const completed_tasks = chapter.querySelectorAll(".complete").length;
+        const title = chapter_title.innerHTML.split(" ")[0]; //Avoid repetition of the title
+		chapter_title.innerHTML = `${title} (${completed_tasks}/${total_tasks})`;
+	});
+};
+
 const initialize_cards_ui = () => {
 	// Click Listeners complete state
 	document.querySelectorAll(".card-pill-clickable").forEach((pill) => {
 		pill.addEventListener("click", (e) => {
 			toggle_classes(e.target, "complete", "incomplete");
+			update_complete_counter();
 			db_update();
 		});
 	});
@@ -57,6 +68,7 @@ const initialize_cards_ui = () => {
 		button.addEventListener("click", (e) => {
 			const pill = document.getElementById(e.target.id.replace("-watch", "-status"));
 			toggle_classes(pill, "complete", "incomplete", true); // Force complete state
+			update_complete_counter();
 			db_update();
 		});
 	});
@@ -74,6 +86,9 @@ const initialize_cards_ui = () => {
 
 	// Initialize filters
 	initialize_cards_filters();
+
+	// Update complete counter
+	update_complete_counter();
 };
 
 export default initialize_cards_ui;
