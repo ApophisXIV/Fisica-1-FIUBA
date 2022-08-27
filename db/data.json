@@ -1,6 +1,33 @@
 {
     "chapters": [
         {
+            "chapter_title": "Recursos",
+            "chapter_description": "",
+            "cards_total": "",
+            "cards_content": [
+                {
+                    "type": "Teorica",
+                    "description": "Libro de la cátedra (Descarga)",
+                    "url": "./db/media/Libro F1.zip"
+                },
+                {
+                    "type": "Teorica",
+                    "description": "Apuntes teoricos extra (Descarga)",
+                    "url": "./db/media/Apuntes Teoricos Utiles F1.zip"
+                },
+                {
+                    "type": "Practica",
+                    "description": "Trabajos prácticos (Descarga)",
+                    "url": "./db/media/Trabajos Practicos F1.zip"
+                },
+                {
+                    "type": "Practica",
+                    "description": "Algunos problemas para practicar (Descarga)",
+                    "url": "./db/media/Problemas para practicar.zip"
+                }
+            ]
+        },
+        {
             "chapter_title": "Cinemática",
             "chapter_description": "",
             "cards_total": "",
@@ -29,6 +56,21 @@
                     "type": "Teorica",
                     "description": " Cinematica. Movimientos Parte 2",
                     "url": "https://www.youtube.com/watch?v=YzuVodAiZNU&t=6s&ab_channel=MarceloFontana"
+                },
+                {
+                    "type": "Teorica",
+                    "description": "Teoria de la medida (Playlist)",
+                    "url": "https://www.youtube.com/playlist?list=PLfWuNaZVZ4nuOPHLV-vH6Y1fIqYYkJux_"
+                },
+                {
+                    "type": "Teorica",
+                    "description": "Mediciones e incertezas experimentales (Parte 1)",
+                    "url": "https://www.youtube.com/watch?v=KGOQ3o5jHfQ&ab_channel=MarioCamuyrano"
+                },
+                {
+                    "type": "Teorica",
+                    "description": "Mediciones e incertezas experimentales (Parte 2)",
+                    "url": "https://www.youtube.com/watch?v=We103C42ccw&ab_channel=MarioCamuyrano"
                 },
                 {
                     "type": "Teorica",
